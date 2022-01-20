@@ -6,3 +6,5 @@ def main():
     file.close()
 if __name__ == '__main__':
     main()
+
+squares = list(map(lambda x: x**2, range(10)))
