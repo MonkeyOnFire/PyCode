@@ -6,4 +6,4 @@ yt = YouTube(url='https://www.youtube.com/watch?v=V4ScM3uU1Gg&list=PLVVvqw65v_Ja
 #yt.streams.all()
 stream = yt.streams.first()
 #stream
-stream.download('C:\\Users\\aaa31\\Desktop\\dw')
+stream.download('/root/down')

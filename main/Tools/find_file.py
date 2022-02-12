@@ -4,10 +4,11 @@ import os
 
 
 
-#遍历单层文件夹查找文件，如果不存在该文件，输出目录名
+# 清理wallpapaer engine壁纸目录用
+# 遍历单层目录查找文件，如果不存在该文件，输出目录名
 
 
-path = Path('D:\\games\\steam\\steamapps\\workshop\\content\\431960')   #父文件夹位置
+path = Path('C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\431960')   #父文件夹位置
 
 
 # def getfilepaths():
